@@ -1,6 +1,6 @@
 # Topic modeling on "Russian troll tweets"
 
-Using the [tweet corpus]((https://github.com/fivethirtyeight/russian-troll-tweets) provided by fivethirtyeight, we perform topic modeling on the tweets.
+Using the [tweet corpus](https://github.com/fivethirtyeight/russian-troll-tweets) provided by fivethirtyeight, we perform topic modeling on the tweets.
 
 Topic modeling may not be well suited for short-form texts such as tweets,
 however the top results could still be interesting.
